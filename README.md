@@ -16,12 +16,10 @@ This calculator application is built using JavaFX and is designed to emulate the
 ### Prerequisites
 
 - Java Development Kit (JDK) installed
-- [Other dependencies...]
+- IDE
 
 ### Installation
 
-1. Clone the repository:
-
-   ```bash git clone https://github.com/adamhitzger/JavaFX-Calculator.git
+1. Clone the repository: bash git clone https://github.com/adamhitzger/JavaFX-Calculator.git
 
 ![JavaFX Calculator](calculator/src/main/resources/com/example/calculator/images/screenshot.png)
