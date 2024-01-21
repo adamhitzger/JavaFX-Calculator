@@ -1,0 +1,45 @@
+.pozadi{
+    -fx-background-color: black;
+    -fx-background-radius: 20px;
+    -fx-border-radius: 25px;
+}
+
+.cifernik{
+    -fx-background-radius: 15%;
+    -fx-font-family: Helvetica;
+    -fx-font-size: 20px;
+    -fx-text-fill: white;
+    -fx-background-color: #333333;
+}
+
+.cifernik:hover{
+    -fx-background-color: #444444;
+}
+
+.operace{
+    -fx-background-radius: 15%;
+    -fx-font-family: Helvetica;
+    -fx-font-size: 20px;
+    -fx-text-fill: white;
+    -fx-background-color: #ffa500;
+}
+
+.operace:hover{
+    -fx-background-color: #ffb510;
+}
+
+.funkce{
+    -fx-background-radius: 15%;
+    -fx-font-family: Helvetica;
+    -fx-font-size: 20px;
+    -fx-background-color: #c0c0c0;
+}
+
+.funkce:hover{
+    -fx-background-color: #cfcfcf;
+}
+
+.displej{
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
